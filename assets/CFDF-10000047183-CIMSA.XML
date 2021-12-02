@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" Certificado="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" CondicionesDePago="30 DIAS" Fecha="2021-10-27T16:25:20" Folio="10000047183" FormaPago="99" LugarExpedicion="01180" MetodoPago="PPD" Moneda="MXN" NoCertificado="00001000000409491341" Sello="ekky6VAyCOAIEL49z9v+vKO1wbtt0zXX1+t/+Id6t8jvkaCOq0tmyN711Ii1/40b6c9OOOa4vUPLuhh1cd8AunWqNknnL7FN1bkbF2TpLx2c5bNXhtaJ/+SJtGKNq00vLswbqYzRu+tK0R1Gb0jeQH5IN27OkGOusnmf33DWkwU1WnWwCsoZAyR25BoJOOdTv11Loro5/I7T4gDrIZiAhebS6FTu/lPCZYd+p4vgJNUi1oyJz8DyJ5sB8jGF3saSfBJ49rf/hOSYqZnNUnYdL6vr6Gh3x197m8Qte8bRk/rCgJQtICDHNyXJni+o24z4bL0IIlb2MCwsD5VziXAFqA==" Serie="C" SubTotal="9905.79" TipoCambio="1" TipoDeComprobante="I" Total="11490.72" Version="3.3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation=" http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd"> 
+
+  <cfdi:Emisor Nombre="COLORANTES IMPORTADOS SA DE CV" RegimenFiscal="601" Rfc="CIM581206CI9"/> 
+
+  <cfdi:Receptor Nombre="ZUÑIGA MARROQUIN RICARDO" Rfc="ZUMR7209284R1" UsoCFDI="G01"/> 
+
+  <cfdi:Conceptos> 
+    <cfdi:Concepto Cantidad="20.00000" ClaveProdServ="39112604" ClaveUnidad="H87" Descripcion="VOTIVA 45 MM BLANCA CAJA C/12" Importe="1119.80" NoIdentificacion="1321074010" Unidad="PIEZAS" ValorUnitario="55.9900"> 
+      <cfdi:Impuestos> 
+        <cfdi:Traslados> 
+          <cfdi:Traslado Base="1119.80" Importe="179.168" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/> 
+        </cfdi:Traslados> 
+      </cfdi:Impuestos> 
+    </cfdi:Concepto> 
+    <cfdi:Concepto Cantidad="15.00000" ClaveProdServ="39112604" ClaveUnidad="H87" Descripcion="VOTIVA 45 MM CREMA CAJA C/12" Importe="839.85" NoIdentificacion="1321074037" Unidad="PIEZAS" ValorUnitario="55.9900"> 
+      <cfdi:Impuestos> 
+        <cfdi:Traslados> 
+          <cfdi:Traslado Base="839.85" Importe="134.376" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/> 
+        </cfdi:Traslados> 
+      </cfdi:Impuestos> 
+    </cfdi:Concepto> 
+    <cfdi:Concepto Cantidad="25.00000" ClaveProdServ="39112604" ClaveUnidad="H87" Descripcion="MINICIRIO CAJA C/10" Importe="361.75" NoIdentificacion="3000008010" Unidad="PIEZAS" ValorUnitario="14.4700"> 
+      <cfdi:Impuestos> 
+        <cfdi:Traslados> 
+          <cfdi:Traslado Base="361.75" Importe="57.88" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/> 
+        </cfdi:Traslados> 
+      </cfdi:Impuestos> 
+    </cfdi:Concepto> 
+    <cfdi:Concepto Cantidad="20.00000" ClaveProdServ="39112604" ClaveUnidad="H87" Descripcion="MINICIRIO CAJA C/10 CREMA CON AROMA" Importe="304.40" NoIdentificacion="3000008011" Unidad="PIEZAS" ValorUnitario="15.2200"> 
+      <cfdi:Impuestos> 
+        <cfdi:Traslados> 
+          <cfdi:Traslado Base="304.40" Importe="48.704" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/> 
+        </cfdi:Traslados> 
+      </cfdi:Impuestos> 
+    </cfdi:Concepto> 
+    <cfdi:Concepto Cantidad="15.00000" ClaveProdServ="39112604" ClaveUnidad="H87" Descripcion="MINICIRIO CAJA C/50" Importe="994.80" NoIdentificacion="3000009010" Unidad="PIEZAS" ValorUnitario="66.3200"> 
+      <cfdi:Impuestos> 
+        <cfdi:Traslados> 
+          <cfdi:Traslado Base="994.80" Importe="159.168" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/> 
+        </cfdi:Traslados> 
+      </cfdi:Impuestos> 
+    </cfdi:Concepto> 
+    <cfdi:Concepto Cantidad="15.00000" ClaveProdServ="39112604" ClaveUnidad="H87" Descripcion="MINICIRIO CAJA C/50 CREMA CON AROMA" Importe="1051.65" NoIdentificacion="3000009011" Unidad="PIEZAS" ValorUnitario="70.1100"> 
+      <cfdi:Impuestos> 
+        <cfdi:Traslados> 
+          <cfdi:Traslado Base="1051.65" Importe="168.264" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/> 
+        </cfdi:Traslados> 
+      </cfdi:Impuestos> 
+    </cfdi:Concepto> 
+    <cfdi:Concepto Cantidad="20.00000" ClaveProdServ="39112604" ClaveUnidad="H87" Descripcion="MINICIRIO CAJA C/50 ROJO CON AROMA" Importe="1402.20" NoIdentificacion="3000009012" Unidad="PIEZAS" ValorUnitario="70.1100"> 
+      <cfdi:Impuestos> 
+        <cfdi:Traslados> 
+          <cfdi:Traslado Base="1402.20" Importe="224.352" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/> 
+        </cfdi:Traslados> 
+      </cfdi:Impuestos> 
+    </cfdi:Concepto> 
+    <cfdi:Concepto Cantidad="4.00000" ClaveProdServ="39112604" ClaveUnidad="H87" Descripcion="VELA ESPIRAL COLORIM C/12 AMARILLO" Importe="256.96" NoIdentificacion="1320890038" Unidad="PIEZAS" ValorUnitario="64.2400"> 
+      <cfdi:Impuestos> 
+        <cfdi:Traslados> 
+          <cfdi:Traslado Base="256.96" Importe="41.1136" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/> 
+        </cfdi:Traslados> 
+      </cfdi:Impuestos> 
+    </cfdi:Concepto> 
+    <cfdi:Concepto Cantidad="8.00000" ClaveProdServ="39112604" ClaveUnidad="H87" Descripcion="VELA ESPIRAL COLORIM C/12 BLANCO" Importe="513.92" NoIdentificacion="1320890010" Unidad="PIEZAS" ValorUnitario="64.2400"> 
+      <cfdi:Impuestos> 
+        <cfdi:Traslados> 
+          <cfdi:Traslado Base="513.92" Importe="82.2272" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/> 
+        </cfdi:Traslados> 
+      </cfdi:Impuestos> 
+    </cfdi:Concepto> 
+    <cfdi:Concepto Cantidad="41.00000" ClaveProdServ="39112604" ClaveUnidad="H87" Descripcion="VELA ESPIRAL CAJA C/5 ADVIENTO" Importe="1063.54" NoIdentificacion="1321570000" Unidad="PIEZAS" ValorUnitario="25.9400"> 
+      <cfdi:Impuestos> 
+        <cfdi:Traslados> 
+          <cfdi:Traslado Base="1063.54" Importe="170.1664" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/> 
+        </cfdi:Traslados> 
+      </cfdi:Impuestos> 
+    </cfdi:Concepto> 
+    <cfdi:Concepto Cantidad="6.00000" ClaveProdServ="39112604" ClaveUnidad="H87" Descripcion="VELA LISA 30/230 BOLSA C/6 S/BAÑO" Importe="409.56" NoIdentificacion="1320960010" Unidad="PIEZAS" ValorUnitario="68.2600"> 
+      <cfdi:Impuestos> 
+        <cfdi:Traslados> 
+          <cfdi:Traslado Base="409.56" Importe="65.5296" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/> 
+        </cfdi:Traslados> 
+      </cfdi:Impuestos> 
+    </cfdi:Concepto> 
+    <cfdi:Concepto Cantidad="12.00000" ClaveProdServ="39112604" ClaveUnidad="H87" Descripcion="CIRIO 40 X 250 CREMA" Importe="263.76" NoIdentificacion="1321390037" Unidad="PIEZAS" ValorUnitario="21.9800"> 
+      <cfdi:Impuestos> 
+        <cfdi:Traslados> 
+          <cfdi:Traslado Base="263.76" Importe="42.2016" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/> 
+        </cfdi:Traslados> 
+      </cfdi:Impuestos> 
+    </cfdi:Concepto> 
+    <cfdi:Concepto Cantidad="12.00000" ClaveProdServ="39112604" ClaveUnidad="H87" Descripcion="CIRIO 40 X 250 BLANCO" Importe="263.76" NoIdentificacion="1321390010" Unidad="PIEZAS" ValorUnitario="21.9800"> 
+      <cfdi:Impuestos> 
+        <cfdi:Traslados> 
+          <cfdi:Traslado Base="263.76" Importe="42.2016" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/> 
+        </cfdi:Traslados> 
+      </cfdi:Impuestos> 
+    </cfdi:Concepto> 
+    <cfdi:Concepto Cantidad="12.00000" ClaveProdServ="39112604" ClaveUnidad="H87" Descripcion="CIRIO S/A 7X17 BLANCO" Importe="529.92" NoIdentificacion="1321046010" Unidad="PIEZAS" ValorUnitario="44.1600"> 
+      <cfdi:Impuestos> 
+        <cfdi:Traslados> 
+          <cfdi:Traslado Base="529.92" Importe="84.7872" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/> 
+        </cfdi:Traslados> 
+      </cfdi:Impuestos> 
+    </cfdi:Concepto> 
+    <cfdi:Concepto Cantidad="12.00000" ClaveProdServ="39112604" ClaveUnidad="H87" Descripcion="CIRIO S/A 7X17 CREMA" Importe="529.92" NoIdentificacion="1321046037" Unidad="PIEZAS" ValorUnitario="44.1600"> 
+      <cfdi:Impuestos> 
+        <cfdi:Traslados> 
+          <cfdi:Traslado Base="529.92" Importe="84.7872" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/> 
+        </cfdi:Traslados> 
+      </cfdi:Impuestos> 
+    </cfdi:Concepto> 
+  </cfdi:Conceptos> 
+
+  <cfdi:Impuestos TotalImpuestosTrasladados="1584.93"> 
+    <cfdi:Traslados> 
+      <cfdi:Traslado Importe="1584.93" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/> 
+    </cfdi:Traslados> 
+  </cfdi:Impuestos> 
+
+  <cfdi:Complemento> <tfd:TimbreFiscalDigital xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="15C45C35-11DD-4C0E-9E0B-88A769260554" FechaTimbrado="2021-10-27T16:21:02" RfcProvCertif="MAS980812UK1" SelloCFD="ekky6VAyCOAIEL49z9v+vKO1wbtt0zXX1+t/+Id6t8jvkaCOq0tmyN711Ii1/40b6c9OOOa4vUPLuhh1cd8AunWqNknnL7FN1bkbF2TpLx2c5bNXhtaJ/+SJtGKNq00vLswbqYzRu+tK0R1Gb0jeQH5IN27OkGOusnmf33DWkwU1WnWwCsoZAyR25BoJOOdTv11Loro5/I7T4gDrIZiAhebS6FTu/lPCZYd+p4vgJNUi1oyJz8DyJ5sB8jGF3saSfBJ49rf/hOSYqZnNUnYdL6vr6Gh3x197m8Qte8bRk/rCgJQtICDHNyXJni+o24z4bL0IIlb2MCwsD5VziXAFqA==" NoCertificadoSAT="00001000000506315610" SelloSAT="4pIPP16vGnlrAjkLHBMWVsOVYPHODmPFoObUuSpipZtRUiq+QI6+rfGlMgynS3TXNJQspAJYSJiqK2w9s2ZAt4xeaZKgBuWbT8WnG1iAedlBZF/yGl6A0ri/6YmG6S7sqW+6nGWhIAM1ATEme7Ga/ircwMatK89OtMysMCyRoZVYkdAPi3HqMQMwZq8k7Uuw+OEeej/tQ8SGad5HMS176DCuW3S+c4QqpPuOygnBmULYwPdi1acezxyO1bzxEjB7WBpleB/OPxiN5A4JcntaqM/lHMh1lh2HDiosPFX+vWZQzu9nQNBNYrc6Sd6kUO/t7bNod9lbtDCTAogyEsymKA==" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" /> </cfdi:Complemento> 
+
+</cfdi:Comprobante>
