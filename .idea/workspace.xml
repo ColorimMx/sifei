@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0569ddbb-f164-4e20-9193-fd72796b99ce" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/assets/cfdi.xml" beforeDir="false" afterPath="$PROJECT_DIR$/assets/cfdi.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sellado.xml" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sellado.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sellados.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejemplo_cadena_original_sello.php" beforeDir="false" afterPath="$PROJECT_DIR$/ejemplo_cadena_original_sello.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/timbrado.zip" beforeDir="false" afterPath="$PROJECT_DIR$/timbrado.zip" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/sifei/ws/soap/utils/CFDIUtils.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/composer.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/config.ini" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/assets/cfdi.xml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ejemploTimbrado.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ejemplo_cadena_original_sello.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/generateClasses.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="216cIcS8dr5i6MV5xhz7TZVCcWW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0569ddbb-f164-4e20-9193-fd72796b99ce" name="Changes" comment="" />
+      <created>1637264898689</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637264898689</updated>
+      <workItem from="1637264899881" duration="7819000" />
+      <workItem from="1637332983085" duration="416000" />
+      <workItem from="1637335356656" duration="8000" />
+      <workItem from="1637593527107" duration="6355000" />
+      <workItem from="1638469490883" duration="3099000" />
+      <workItem from="1638818007638" duration="1861000" />
+      <workItem from="1638904637554" duration="637000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

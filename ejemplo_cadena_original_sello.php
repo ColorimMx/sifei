@@ -61,11 +61,11 @@ println($utils->getSello(
     )
 );
 */
-/*
+
 println("-----Cadena original:");
 #si deseas ver la cadena original.
 println($utils->getCadenaOriginal());
-*/
+
 $sello = $utils->getSello(
     file_get_contents(__DIR__."/KeyCert/Colorim/CSD_COLORANTES_IMPORTADOS_CIM581206CI9_20180213_121348.key"), #llave en formato DER
     "COLIMP5812",
