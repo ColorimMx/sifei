@@ -7,7 +7,7 @@ use DHF\Sifei\Ws\Soap\Timbrado\getCFDI;
 use DHF\Sifei\Ws\Soap\SifeiTimbradoService;
 
 
-$cfdiSelladoPath=__DIR__."/assets/sellado.xml";//Ruta del xml sellado
+$cfdiSelladoPath=__DIR__."/assets/sellado_1.xml";//Ruta del xml sellado
 $originalName=basename($cfdiSelladoPath);
 #Se lee el contenido del XML
 $xml = file_get_contents($cfdiSelladoPath);

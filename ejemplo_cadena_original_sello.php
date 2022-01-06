@@ -34,7 +34,7 @@ function println($str){
 
 $dom= new DOMDocument();
 #en este caso se carga el xml desde archivo
-$dom->load(__DIR__."/assets/cfdi.xml");
+$dom->load(__DIR__."/assets/1.xml");
 $utils= new CFDIUtils();
 $utils->setComprobante($dom);
 #todo desde un solo metodo: genera la cadena original, sella y codifica en base64 lista para agregar en el atributo Sello del CFDI
@@ -82,4 +82,4 @@ if ($elements->length >= 1) {
 //echo '<pre>' . htmlspecialchars($dom->saveXML()) . '</pre>';
 
 $el_xml = $dom->saveXML();
-$dom->save(__DIR__."/assets/sellado.xml");
+$dom->save(__DIR__."/assets/sellado_1.xml");

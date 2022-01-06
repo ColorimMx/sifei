@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0569ddbb-f164-4e20-9193-fd72796b99ce" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/assets/cfdi.xml" beforeDir="false" afterPath="$PROJECT_DIR$/assets/cfdi.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sellado.xml" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sellado.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sellados.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejemploTimbrado.php" beforeDir="false" afterPath="$PROJECT_DIR$/ejemploTimbrado.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ejemplo_cadena_original_sello.php" beforeDir="false" afterPath="$PROJECT_DIR$/ejemplo_cadena_original_sello.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/timbrado.zip" beforeDir="false" afterPath="$PROJECT_DIR$/timbrado.zip" afterDir="false" />
     </list>
@@ -66,6 +65,7 @@
       <workItem from="1638469490883" duration="3099000" />
       <workItem from="1638818007638" duration="1861000" />
       <workItem from="1638904637554" duration="637000" />
+      <workItem from="1641492947667" duration="1109000" />
     </task>
     <servers />
   </component>
